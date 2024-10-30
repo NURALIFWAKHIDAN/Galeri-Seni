@@ -88,7 +88,7 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="card">
-                    <img src="patung modern.jpg" class="card-img-top" alt="Lukisan Abstrak">
+                    <img src="lukisan abstrak galeri seni.jpg" class="card-img-top" alt="Lukisan Abstrak">
                     <div class="card-body">
                         <h5 class="card-title">Lukisan Abstrak</h5>
                         <p class="card-text">Karya ini mencerminkan emosi dan ekspresi melalui warna dan bentuk.</p>
