@@ -88,7 +88,7 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="card">
-                    <img src="patung modern.jpg" alt="Lukisan Abstrak">
+                    <img src="patung modern.jpg" class="card-img-top" alt="Lukisan Abstrak">
                     <div class="card-body">
                         <h5 class="card-title">Lukisan Abstrak</h5>
                         <p class="card-text">Karya ini mencerminkan emosi dan ekspresi melalui warna dan bentuk.</p>
@@ -108,7 +108,7 @@
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <img src="c:\Users\NUR ALIF WAKHIDAN\Downloads\seni digital.webp" class="card-img-top" alt="Seni Digital">
+                    <img src="Seni Digital jpg.jpeg" class="card-img-top" alt="Seni Digital">
                     <div class="card-body">
                         <h5 class="card-title">Seni Digital</h5>
                         <p class="card-text">Karya seni yang memadukan teknologi dengan kreativitas, menghasilkan visual yang menakjubkan.</p>
