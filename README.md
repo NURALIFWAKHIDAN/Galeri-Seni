@@ -98,7 +98,7 @@
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <img src="c:\Users\NUR ALIF WAKHIDAN\Downloads\patung modern.jpg" class="card-img-top" alt="Patung Modern">
+                    <img src="patung modern.jpg" class="card-img-top" alt="Patung Modern">
                     <div class="card-body">
                         <h5 class="card-title">Patung Modern</h5>
                         <p class="card-text">Sebuah patung yang terbuat dari bahan daur ulang, menggambarkan kecintaan terhadap lingkungan.</p>
